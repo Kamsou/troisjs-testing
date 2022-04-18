@@ -1,4 +1,4 @@
-<img src="@/assets/sphere.jpg" />
+<img src="https://github.com/Kamsou/troisjs-testing/blob/main/src/assets/sphere.jpg?raw=true" width="200" />
 
 
 
