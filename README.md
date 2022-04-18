@@ -1,3 +1,7 @@
+<img src="@/assets/sphere.jpg" />
+
+
+
 <p align='center'><img width="300px" style="display:block; margin:0 auto;" src="https://res.cloudinary.com/alvarosaburido/image/upload/v1621848301/projects/vitesome/logotype_zq9g5i.png" alt="Vitesome - Vue3 + Vite template starter">
 </p>
 
