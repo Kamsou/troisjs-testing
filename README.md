@@ -1,15 +1,8 @@
-<img src="https://github.com/Kamsou/troisjs-testing/blob/main/src/assets/sphere.jpg?raw=true" width="200" />
+# My sphere 
 
+<img src="https://github.com/Kamsou/troisjs-testing/blob/main/src/assets/sphere.jpg?raw=true" width="500" />
 
-
-<p align='center'><img width="300px" style="display:block; margin:0 auto;" src="https://res.cloudinary.com/alvarosaburido/image/upload/v1621848301/projects/vitesome/logotype_zq9g5i.png" alt="Vitesome - Vue3 + Vite template starter">
-</p>
-
-<p align='center'>
-<sub>Logo created with <a href="https://windicss.org/">Windcss logo</a> + Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> & <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>  </sub>
-</p>
-
-# Vitesome 🌬 ⛵️
+# Use Vitesome 🌬 ⛵️
 
 > A simple opinionated Vue Starter Template with [Vite.js](https://vitejs.dev/)
 
